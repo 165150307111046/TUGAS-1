@@ -124,8 +124,6 @@ int main(){
 				bukusej1->tampil(kategori);
 				bukusej2->tampil(kategori);
 			}
-		
-	
 }
 
 
